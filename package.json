@@ -1,0 +1,27 @@
+{
+  "name": "angular-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular-devkit/build-angular": "^13.1.2",
+    "@angular/core": "^13.1.1",
+    "@angular/platform-browser-dynamic": "^13.1.1",
+    "@angular/router": "^13.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-coverage": "^2.1.0",
+    "karma-jasmine": "^4.0.1",
+    "karma-jasmine-html-reporter": "^1.7.0",
+    "nodemon": "^2.0.15",
+    "zone.js": "^0.11.4"
+  }
+}
